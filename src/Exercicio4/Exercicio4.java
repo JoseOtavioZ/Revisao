@@ -24,6 +24,44 @@ public class Exercicio4 extends JFrame{
         @Override
         public void actionPerformed(ActionEvent e)
         {
+            if (comboBox1.getSelectedIndex()==0)
+            {
+                //produto
+                Produto produto= new Produto();
+                produto.setProdutoNome(textNomeProduto.getText());
+                produto.setProdutoCusto(Double.valueOf(textCusto.getText()));
+                produto.setVenda(Double.valueOf(textPrecoVenda.getText()));
+                produto.setPis(Double.valueOf(textPis.getText()));
+                produto.setCofins(Double.valueOf(textCofins.getText()));
+                produto.setIcms(Double.valueOf(textIcms.getText()));
+                produto.setDifal(Double.valueOf(textDifal.getText()));
+                produto.setValorFrete(Double.valueOf(textField8.getText()));
+            }
+            else if(comboBox1.getSelectedIndex()==1)
+            {
+                //serviço
+                Servico servico=new Servico();
+                servico.setProdutoNome(textNomeProduto.getText());
+                servico.setProdutoCusto(Double.valueOf(textCusto.getText()));
+                servico.setVenda(Double.valueOf(textPrecoVenda.getText()));
+                servico.setPis(Double.valueOf(textPis.getText()));
+                servico.setCofins(Double.valueOf(textCofins.getText()));
+                servico.setIcms(Double.valueOf(textIcms.getText()));
+                servico.setDifal(Double.valueOf(textDifal.getText()));
+                servico.setValorISS(Double.valueOf(textField8.getText()));
+            }
+
+
+
+
+
+
+
+
+
+
+
+
             String produtoNome = textNomeProduto.getText();
             double produtoCusto = Double.valueOf(textCusto.getText());
             double venda = Double.valueOf(textPrecoVenda.getText());

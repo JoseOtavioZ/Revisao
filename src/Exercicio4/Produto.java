@@ -8,6 +8,18 @@ public class Produto extends Imposto {
         this.valorFrete = valorFrete;
     }
 
+    public double getValorFrete() {
+        return valorFrete;
+    }
+
+    public void setValorFrete(Double aDouble) {
+        this.valorFrete = valorFrete;
+    }
+
+    public Produto() {
+
+    }
+
     @Override
     public double calcularRob() {
         double valorRob = super.calcularRob() - valorFrete;

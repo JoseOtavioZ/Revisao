@@ -8,6 +8,18 @@ public class Servico extends Imposto {
         this.valorISS = valorISS;
     }
 
+    public Servico() {
+
+    }
+
+    public double getValorISS() {
+        return valorISS;
+    }
+
+    public void setValorISS(Double aDouble) {
+        this.valorISS = valorISS;
+    }
+
     @Override
     public double calcularRob() {
         double valorRob = super.calcularRob() - valorISS;
