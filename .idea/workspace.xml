@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81a881ea-0807-4526-97be-72d26815066e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Revisao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio1/Exercicio1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio1/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Exercicio2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio3/Exercicio3.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio3/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio3/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio4/Exercicio4.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio4/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio4/Imposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio4/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio4/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio4/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RB6yF2SAPLqgavgVY5szrUk8bC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "117",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "271",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/VendaCadastro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\José\IdeaProjects\Revisao\src\Exercicio4" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a881ea-0807-4526-97be-72d26815066e" name="Changes" comment="" />
+      <created>1686711381621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686711381621</updated>
+      <workItem from="1686711382815" duration="9273000" />
+      <workItem from="1686762132227" duration="9353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
